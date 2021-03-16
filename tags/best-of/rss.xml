@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Escapist reviews - best-of</title>
+        <link>https://learnbyexample.github.io/escapist-reviews</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://learnbyexample.github.io/escapist-reviews/tags/best-of/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>10 favorite fictional books I read in 2020</title>
+            <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+            <link>https://learnbyexample.github.io/escapist-reviews/posts/2020-favorite-fiction/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/posts/2020-favorite-fiction/</guid>
+            <description>&lt;p&gt;I read 97 fictional novels in 2020, including re-reads. Most of them were fantasy, rest would fall under sci-fi and magical realism. &lt;&#x2F;p&gt;
+&lt;p&gt;A few years back, I would finish a book no matter how difficult or boring it was. Not so anymore, I had at least three DNF this year — one was too dark for my tastes and the other two were too boring.&lt;&#x2F;p&gt;
+&lt;p&gt;Picking favorites is a tough task and choosing the order of presentation even more so. I&#x27;ve gone with books I enjoyed the most and these are all great candidates for future re-reads. I am not so good with rating prose, characters, worldbuilding, plot holes, etc anyway.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://learnbyexample.github.io/escapist-reviews/sitemap.xml
