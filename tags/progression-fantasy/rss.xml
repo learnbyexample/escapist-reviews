@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Escapist reviews - progression-fantasy</title>
+        <link>https://learnbyexample.github.io/escapist-reviews</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://learnbyexample.github.io/escapist-reviews/tags/progression-fantasy/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Exodus of Gnomes: a delightful sequel</title>
+            <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+            <link>https://learnbyexample.github.io/escapist-reviews/posts/exodus-of-gnomes-review/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/posts/exodus-of-gnomes-review/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;a class=&quot;zola-anchor&quot; href=&quot;#about&quot; aria-label=&quot;Anchor link for: about&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;57202868-exodus-of-gnomes&quot;&gt;Exodus of Gnomes&lt;&#x2F;a&gt; is the 2nd book of the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;277662-god-core&quot;&gt;God Core&lt;&#x2F;a&gt; trilogy. This comes under the &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;ProgressionFantasy&#x2F;&quot;&gt;progression fantasy&lt;&#x2F;a&gt; category, specifically GameLit&#x2F;LitRPG, but there are no stat sheets in this series.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
