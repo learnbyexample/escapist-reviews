@@ -2,6 +2,8 @@
 
 Lists, reviews and other thoughts about fictional books I read.
 
+Blog link: https://learnbyexample.github.io/escapist-reviews/
+
 <br>
 
 ## Acknowledgements
