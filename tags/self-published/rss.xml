@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Escapist reviews - self-published</title>
+        <link>https://learnbyexample.github.io/escapist-reviews</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://learnbyexample.github.io/escapist-reviews/tags/self-published/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>The Shadows of Dust: a riveting space fantasy epic</title>
+            <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+            <link>https://learnbyexample.github.io/escapist-reviews/posts/the-shadows-of-dust/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/posts/the-shadows-of-dust/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;a class=&quot;zola-anchor&quot; href=&quot;#about&quot; aria-label=&quot;Anchor link for: about&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;56227118-the-shadows-of-dust&quot;&gt;The Shadows of Dust&lt;&#x2F;a&gt; is a standalone novel authored by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;16048391.Alec_Hutson&quot;&gt;Alec Hutson&lt;&#x2F;a&gt;, well known for &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;225697-the-raveling&quot;&gt;The Raveling&lt;&#x2F;a&gt; series.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>The Wolf and the She-Bear: fast paced dark fantasy thriller</title>
+            <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+            <link>https://learnbyexample.github.io/escapist-reviews/posts/wolf-and-she-bear/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/posts/wolf-and-she-bear/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;a class=&quot;zola-anchor&quot; href=&quot;#about&quot; aria-label=&quot;Anchor link for: about&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;56789052-the-wolf-and-the-she-bear&quot;&gt;The Wolf and the She-Bear&lt;&#x2F;a&gt; is an introductory novella for other books in this setting, authored by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;20228435.Morgan_Stang&quot;&gt;Morgan Stang&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;54140480-she-topples-giants&quot;&gt;She Topples Giants&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;55455761-she-courts-darkness&quot;&gt;She Courts Darkness&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+        </item>
+    </channel>
+</rss>
