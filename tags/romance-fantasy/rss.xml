@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Escapist reviews - romance-fantasy</title>
+        <link>https://learnbyexample.github.io/escapist-reviews</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://learnbyexample.github.io/escapist-reviews/tags/romance-fantasy/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Half a Soul: wholesome romance and fantastic banter</title>
+            <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+            <link>https://learnbyexample.github.io/escapist-reviews/posts/half-a-soul/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/posts/half-a-soul/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;a class=&quot;zola-anchor&quot; href=&quot;#about&quot; aria-label=&quot;Anchor link for: about&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;52654173-half-a-soul&quot;&gt;Half a Soul&lt;&#x2F;a&gt; is &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;20153683.Olivia_Atwater&quot;&gt;Olivia Atwater&lt;&#x2F;a&gt;&#x27;s debut novel.&lt;&#x2F;p&gt;
+&lt;p&gt;This standalone book is part of the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;285776-regency-faerie-tales&quot;&gt;Regency Faerie Tales&lt;&#x2F;a&gt; series.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
