@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Escapist reviews - horror</title>
+        <link>https://learnbyexample.github.io/escapist-reviews</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://learnbyexample.github.io/escapist-reviews/tags/horror/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>The Revenge of Kaivalya: fast paced paranormal thriller</title>
+            <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+            <link>https://learnbyexample.github.io/escapist-reviews/posts/revenge-of-kaivalya/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/posts/revenge-of-kaivalya/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;a class=&quot;zola-anchor&quot; href=&quot;#about&quot; aria-label=&quot;Anchor link for: about&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;27227904-the-revenge-of-kaivalya&quot;&gt;The Revenge of Kaivalya&lt;&#x2F;a&gt; is &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;7341254.Sumana_Khan&quot;&gt;Sumana Khan&lt;&#x2F;a&gt;&#x27;s debut novel. This was originally self published before being published by Westland.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
