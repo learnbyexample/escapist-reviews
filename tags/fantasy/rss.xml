@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Escapist reviews - fantasy</title>
+        <link>https://learnbyexample.github.io/escapist-reviews</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://learnbyexample.github.io/escapist-reviews/tags/fantasy/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Spit and Song: a tale of friendship and rediscovering yourself</title>
+            <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+            <link>https://learnbyexample.github.io/escapist-reviews/posts/spit-and-song/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/posts/spit-and-song/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;a class=&quot;zola-anchor&quot; href=&quot;#about&quot; aria-label=&quot;Anchor link for: about&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;48515568-spit-and-song&quot;&gt;Spit and Song&lt;&#x2F;a&gt; is authored by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;15962594.Travis_M_Riddle&quot;&gt;Travis M. Riddle&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;This standalone book is part of the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;273383-ustlian-tales&quot;&gt;Ustlian Tales&lt;&#x2F;a&gt; series and can be read on its own.&lt;&#x2F;p&gt;
+&lt;details&gt;&lt;summary&gt;Click to view content warnings&lt;&#x2F;summary&gt;Drugs, Swearing&lt;&#x2F;details&gt;
+</description>
+        </item>
+    </channel>
+</rss>
