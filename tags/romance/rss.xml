@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Escapist reviews - romance</title>
+        <link>https://learnbyexample.github.io/escapist-reviews</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://learnbyexample.github.io/escapist-reviews/tags/romance/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Winter&#x27;s Orbit: romance in space</title>
+            <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+            <link>https://learnbyexample.github.io/escapist-reviews/posts/winters-orbit/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/posts/winters-orbit/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;53205912-winter-s-orbit&quot;&gt;Winter&#x27;s Orbit&lt;&#x2F;a&gt; is a standalone novel written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;19466165.Everina_Maxwell&quot;&gt;Everina Maxwell&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
