@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-      <title>Escapist reviews - middle-grade</title>
+      <title>Escapist reviews - comfort-read</title>
         <link>https://learnbyexample.github.io/escapist-reviews</link>
         <description></description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://learnbyexample.github.io/escapist-reviews/tags/middle-grade/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://learnbyexample.github.io/escapist-reviews/tags/comfort-read/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
         <item>
             <title>A Dash of Trouble: what could go wrong?</title>
