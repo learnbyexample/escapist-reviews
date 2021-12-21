@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-      <title>Escapist reviews - mini-reviews</title>
+      <title>Escapist reviews - 2021</title>
         <link>https://learnbyexample.github.io/escapist-reviews</link>
         <description></description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://learnbyexample.github.io/escapist-reviews/tags/mini-reviews/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://learnbyexample.github.io/escapist-reviews/tags/2021/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
         <item>
             <title>Six mini reviews</title>
@@ -15,14 +15,6 @@
             <guid>https://learnbyexample.github.io/escapist-reviews/posts/six-mini-reviews-nov-dec-2021/</guid>
             <description>&lt;p&gt;Here&#x27;s mini reviews for some of the books I read from Nov to Dec 2021. I rated all these six books with 4 stars (out of 5). Give them a shot if they sound interesting.&lt;&#x2F;p&gt;
 &lt;p&gt;The links lead to the book page on goodreads, from where I&#x27;ve also copied a portion of the blurbs for this post.&lt;&#x2F;p&gt;
-</description>
-        </item>
-        <item>
-            <title>Mini reviews for 16 books</title>
-            <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/mini-reviews-june-sep-2020/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/mini-reviews-june-sep-2020/</guid>
-            <description>&lt;p&gt;Here&#x27;s mini reviews for books I read from June to Sep 2020.&lt;&#x2F;p&gt;
 </description>
         </item>
     </channel>
