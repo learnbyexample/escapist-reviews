@@ -1,6 +1,6 @@
-# Escapist reviews
+# Escapist Reviews
 
-Lists, reviews and other thoughts about fictional books I read.
+Reviews for fantasy and science fiction stories.
 
 Blog link: https://learnbyexample.github.io/escapist-reviews/
 
@@ -8,8 +8,10 @@ Blog link: https://learnbyexample.github.io/escapist-reviews/
 
 ## Acknowledgements
 
-* This blog has been generated using [zola](https://github.com/getzola/zola) and uses [DeepThought](https://www.getzola.org/themes/deepthought/) theme with modifications
-* "Black Sailing Boat" digital photo by [Johannes Plenio](https://unsplash.com/@jplenio) on [Unsplash](https://unsplash.com/photos/DKix6Un55mw)
+* This blog has been generated using [Zola](https://github.com/getzola/zola) and uses [Even](https://github.com/getzola/even) theme with modifications
+    * [colorhexa](https://www.colorhexa.com/) for choosing some of the theme colors
 * [goodreads](https://www.goodreads.com) for book covers used in the posts
+* [Canva](https://www.canva.com/) for poster
 * [Inkscape](https://inkscape.org/) for favicon
 * [pngquant](https://pngquant.org/) and [svgcleaner](https://github.com/RazrFalcon/svgcleaner) for optimizing images
+* [Google docs](https://docs.google.com/) for spelling and grammar check
