@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-      <title>Escapist reviews</title>
+      <title>Escapist Reviews</title>
         <link>https://learnbyexample.github.io/escapist-reviews</link>
-        <description></description>
+        <description>Reviews for fantasy and science fiction stories.</description>
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://learnbyexample.github.io/escapist-reviews/rss.xml" rel="self" type="application/rss+xml"/>
@@ -11,8 +11,8 @@
         <item>
             <title>Five mini reviews</title>
             <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/five-mini-reviews-july-aug-2022/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/five-mini-reviews-july-aug-2022/</guid>
+            <link>https://learnbyexample.github.io/escapist-reviews/five-mini-reviews-july-aug-2022/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/five-mini-reviews-july-aug-2022/</guid>
             <description>&lt;p&gt;Here are mini reviews for some of the books I read from July to August 2022. Give them a shot if they sound interesting.&lt;&#x2F;p&gt;
 &lt;p&gt;The links lead to the book page on goodreads, from where I&#x27;ve also copied a portion of the blurbs for this post.&lt;&#x2F;p&gt;
 </description>
@@ -20,44 +20,44 @@
         <item>
             <title>Phoenix Down: light hearted adventure with magical creatures</title>
             <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/phoenix-down/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/phoenix-down/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/phoenix-down/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/phoenix-down/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;61279772-phoenix-down&quot;&gt;Phoenix Down&lt;&#x2F;a&gt; is the first book in the &lt;strong&gt;The Naturalist&lt;&#x2F;strong&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;20507714.Brooke_Hatchett&quot;&gt;Brooke Hatchett&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Bondsfungi: character focussed and pleasant surprises</title>
             <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/bondsfungi/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/bondsfungi/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/bondsfungi/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/bondsfungi/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;60154044-bondsfungi&quot;&gt;Bondsfungi&lt;&#x2F;a&gt; is the fifth book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;306753-the-weirkey-chronicles&quot;&gt;The Weirkey Chronicles&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;18628196.Sarah_Lin&quot;&gt;Sarah Lin&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Soul Relic: wholesome adventure in progression fantasy setting</title>
             <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/soul-relic/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/soul-relic/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/soul-relic/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/soul-relic/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;61324650-soul-relic&quot;&gt;Soul Relic&lt;&#x2F;a&gt; is &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;22492955.Samuel_Hinton&quot;&gt;Samuel Hinton&lt;&#x2F;a&gt;&#x27;s debut book.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Stout: a love letter to Discworld</title>
             <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/stout/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/stout/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/stout/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/stout/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;60372504-stout&quot;&gt;Stout&lt;&#x2F;a&gt; is &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;22220255.Taylor_Small&quot;&gt;Taylor Small&lt;&#x2F;a&gt;&#x27;s debut book.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Seven mini reviews</title>
             <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/seven-mini-reviews-apr-june-2022/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/seven-mini-reviews-apr-june-2022/</guid>
+            <link>https://learnbyexample.github.io/escapist-reviews/seven-mini-reviews-apr-june-2022/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/seven-mini-reviews-apr-june-2022/</guid>
             <description>&lt;p&gt;Here are mini reviews for some of the books I read from April to June 2022. Give them a shot if they sound interesting.&lt;&#x2F;p&gt;
 &lt;p&gt;The links lead to the book page on goodreads, from where I&#x27;ve also copied a portion of the blurbs for this post.&lt;&#x2F;p&gt;
 </description>
@@ -65,45 +65,45 @@
         <item>
             <title>Dreadgod: action packed, great humor, plenty of cool moments</title>
             <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/dreadgod/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/dreadgod/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/dreadgod/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/dreadgod/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;59515764-dreadgod&quot;&gt;Dreadgod&lt;&#x2F;a&gt; is the 11th book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;192821-cradle&quot;&gt;Cradle series&lt;&#x2F;a&gt; written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;7125278.Will_Wight&quot;&gt;Will Wight&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Wyngraf Issue #1: cozy fantasy short story collection</title>
             <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/wyngraf/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/wyngraf/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/wyngraf/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/wyngraf/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;60774780-wyngraf-issue-1&quot;&gt;Wyngraf Issue #1&lt;&#x2F;a&gt; is edited by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;19405364.Nathaniel_Webb&quot;&gt;Nathaniel Webb&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Axtara - Banking and Finance: slice-of-life story of a dragon banker</title>
             <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/axtara-banking-and-finance/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/axtara-banking-and-finance/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/axtara-banking-and-finance/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/axtara-banking-and-finance/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;56383097-axtara---banking-and-finance&quot;&gt;Axtara - Banking and Finance&lt;&#x2F;a&gt; is a standalone novel written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;6996506.Max_Florschutz&quot;&gt;Max Florschutz&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>The Lord of Stariel: fantasy-of-manners, mystery and romance</title>
             <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/the-lord-of-stariel/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/the-lord-of-stariel/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/the-lord-of-stariel/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/the-lord-of-stariel/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;41838393-the-lord-of-stariel&quot;&gt;The Lord of Stariel&lt;&#x2F;a&gt; is the first book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;252712-stariel&quot;&gt;Stariel&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;18422461.A_J_Lancaster&quot;&gt;A.J. Lancaster&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Shadow of a Dead God: fast paced fantasy mystery</title>
             <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/shadow-of-a-dead-god/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/shadow-of-a-dead-god/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/shadow-of-a-dead-god/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/shadow-of-a-dead-god/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;60743355-shadow-of-a-dead-god&quot;&gt;Shadow of a Dead God&lt;&#x2F;a&gt; is the first book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;292178-mennik-thorn&quot;&gt;Mennik Thorn&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;4351137.Patrick_Samphire&quot;&gt;Patrick Samphire&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
@@ -119,62 +119,62 @@
         <item>
             <title>Starship&#x27;s Mage: good mix of magic and science fiction</title>
             <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/starships-mage/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/starships-mage/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/starships-mage/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/starships-mage/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;40669196-starship-s-mage&quot;&gt;Starship&#x27;s Mage&lt;&#x2F;a&gt; is the first book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;124536-starship-s-mage&quot;&gt;Starship&#x27;s Mage&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;7737246.Glynn_Stewart&quot;&gt;Glynn Stewart&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>The Umbral Storm: engaging epic fantasy with progression magic system</title>
             <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/the-umbral-storm/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/the-umbral-storm/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/the-umbral-storm/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/the-umbral-storm/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;60969058-the-umbral-storm&quot;&gt;The Umbral Storm&lt;&#x2F;a&gt; is the first book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;342998-the-sharded-few&quot;&gt;The Sharded Few&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;16048391.Alec_Hutson&quot;&gt;Alec Hutson&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Morcster Chef: fantasy cooking adventure</title>
             <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/morcster-chef/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/morcster-chef/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/morcster-chef/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/morcster-chef/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;59770974-cleaver-s-edge&quot;&gt;Cleaver&#x27;s Edge&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;60214731-into-the-fire&quot;&gt;Into the Fire&lt;&#x2F;a&gt; are the first two books in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;341256-morcster-chef&quot;&gt;Morcster Chef&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;3910549.Actus&quot;&gt;Actus&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Tongue Eater: setup for the finale</title>
             <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/tongue-eater/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/tongue-eater/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/tongue-eater/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/tongue-eater/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;60872852-tongue-eater&quot;&gt;Tongue Eater&lt;&#x2F;a&gt; is the 6th book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;252085-mage-errant&quot;&gt;Mage Errant series&lt;&#x2F;a&gt; written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;18510329.John_Bierce&quot;&gt;John Bierce&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Ascendant: fast paced, dragon bond based progression magic</title>
             <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/ascendant/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/ascendant/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/ascendant/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/ascendant/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;54540316-ascendant&quot;&gt;Ascendant&lt;&#x2F;a&gt; is the first book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;300106-songs-of-chaos&quot;&gt;Songs Of Chaos&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;8566359.Michael_R_Miller&quot;&gt;Michael R. Miller&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>The Enchanter: engaging magical academy tale</title>
             <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/the-enchanter/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/the-enchanter/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/the-enchanter/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/the-enchanter/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;60630617-the-enchanter&quot;&gt;The Enchanter&lt;&#x2F;a&gt; is &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;22301328.Tobias_Begley&quot;&gt;Tobias Begley&lt;&#x2F;a&gt;&#x27;s debut book.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Five mini reviews</title>
             <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/five-mini-reviews-mar-2022/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/five-mini-reviews-mar-2022/</guid>
+            <link>https://learnbyexample.github.io/escapist-reviews/five-mini-reviews-mar-2022/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/five-mini-reviews-mar-2022/</guid>
             <description>&lt;p&gt;Here&#x27;s mini reviews for some of the books I read during Mar 2022. Give them a shot if they sound interesting.&lt;&#x2F;p&gt;
 &lt;p&gt;The links lead to the book page on goodreads, from where I&#x27;ve also copied a portion of the blurbs for this post.&lt;&#x2F;p&gt;
 </description>
@@ -191,9 +191,9 @@
         <item>
             <title>Legends &amp; Lattes: slice-of-life with a dollop of romantic froth</title>
             <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/legends-lattes/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/legends-lattes/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/legends-lattes/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/legends-lattes/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;60222807-legends-lattes&quot;&gt;Legends &amp;amp; Lattes&lt;&#x2F;a&gt; is &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;22182916.Travis_Baldree&quot;&gt;Travis Baldree&lt;&#x2F;a&gt;&#x27;s debut book.&lt;&#x2F;p&gt;
 &lt;p&gt;Yes, the same Travis Baldree who narrated the audio books for Cradle and other fantasy series.&lt;&#x2F;p&gt;
 </description>
@@ -201,8 +201,8 @@
         <item>
             <title>Four mini reviews</title>
             <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/four-mini-reviews-feb-2022/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/four-mini-reviews-feb-2022/</guid>
+            <link>https://learnbyexample.github.io/escapist-reviews/four-mini-reviews-feb-2022/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/four-mini-reviews-feb-2022/</guid>
             <description>&lt;p&gt;Here&#x27;s mini reviews for some of the books I read during Feb 2022. Give them a shot if they sound interesting.&lt;&#x2F;p&gt;
 &lt;p&gt;The links lead to the book page on goodreads, from where I&#x27;ve also copied a portion of the blurbs for this post.&lt;&#x2F;p&gt;
 </description>
@@ -210,9 +210,9 @@
         <item>
             <title>By Winged Chair: a Robin Hood retelling</title>
             <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/by-winged-chair/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/by-winged-chair/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/by-winged-chair/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/by-winged-chair/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;42355739-by-winged-chair&quot;&gt;By Winged Chair&lt;&#x2F;a&gt; is the first book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;292829-mark-of-the-least&quot;&gt;Mark of the Least&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;18500376.Kendra_Merritt&quot;&gt;Kendra Merritt&lt;&#x2F;a&gt;. Here&#x27;s the series description:&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The Mark of the Least is a series of familiar stories told from unfamiliar points of view, highlighting main characters with disabilities. Each book stands alone and the series is designed to be read in any order.&lt;&#x2F;p&gt;
@@ -222,35 +222,35 @@
         <item>
             <title>Heaven Fall: engaging mix of epic and progression fantasy</title>
             <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/heaven-fall/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/heaven-fall/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/heaven-fall/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/heaven-fall/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;57025601-heaven-fall&quot;&gt;Heaven Fall&lt;&#x2F;a&gt; is the first book of a progression fantasy series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;8177011.Leo_Petracci&quot;&gt;Leo Petracci&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Dim Stars: A Novel of Outer-Space Shenanigans</title>
             <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/dim-stars/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/dim-stars/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/dim-stars/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/dim-stars/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;55742518-dim-stars&quot;&gt;Dim Stars&lt;&#x2F;a&gt; is &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;20828696.Brian_P_Rubin&quot;&gt;Brian P. Rubin&lt;&#x2F;a&gt;&#x27;s debut novel. This can be read as a standalone, with sequels likely to come.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Tales from Ruun: fantasy short story collection</title>
             <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/tales-from-ruun/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/tales-from-ruun/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/tales-from-ruun/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/tales-from-ruun/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;58525559-tales-from-ruun&quot;&gt;Tales from Ruun&lt;&#x2F;a&gt; is a short story collection set in the &lt;strong&gt;The Power Yet Wielded&lt;&#x2F;strong&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;19666781.Chad_Retterath&quot;&gt;Chad Retterath&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Six mini reviews</title>
             <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/six-mini-reviews-dec-2021-jan-2022/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/six-mini-reviews-dec-2021-jan-2022/</guid>
+            <link>https://learnbyexample.github.io/escapist-reviews/six-mini-reviews-dec-2021-jan-2022/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/six-mini-reviews-dec-2021-jan-2022/</guid>
             <description>&lt;p&gt;Here&#x27;s mini reviews for some of the books I read from Dec 2021 to Jan 2022. Give them a shot if they sound interesting.&lt;&#x2F;p&gt;
 &lt;p&gt;The links lead to the book page on goodreads, from where I&#x27;ve also copied a portion of the blurbs for this post.&lt;&#x2F;p&gt;
 </description>
@@ -258,18 +258,18 @@
         <item>
             <title>Edict of Honor: fantastic sequel</title>
             <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/edict-of-honor/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/edict-of-honor/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/edict-of-honor/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/edict-of-honor/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;59984405-edict-of-honor&quot;&gt;Edict of Honor&lt;&#x2F;a&gt; is the second book in the &lt;strong&gt;The Eldest Throne&lt;&#x2F;strong&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;20322655.Bernie_An_s_Paz&quot;&gt;Bernie Anés Paz&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>The Weirkey Chronicles: enjoyable fast paced progression fantasy</title>
             <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/weirkey-chronicles/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/weirkey-chronicles/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/weirkey-chronicles/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/weirkey-chronicles/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;306753-the-weirkey-chronicles&quot;&gt;The Weirkey Chronicles&lt;&#x2F;a&gt; series is written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;18628196.Sarah_Lin&quot;&gt;Sarah Lin&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;This review covers all the three books that have been published so far.&lt;&#x2F;p&gt;
 </description>
@@ -287,8 +287,8 @@
         <item>
             <title>Six mini reviews</title>
             <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/six-mini-reviews-nov-dec-2021/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/six-mini-reviews-nov-dec-2021/</guid>
+            <link>https://learnbyexample.github.io/escapist-reviews/six-mini-reviews-nov-dec-2021/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/six-mini-reviews-nov-dec-2021/</guid>
             <description>&lt;p&gt;Here&#x27;s mini reviews for some of the books I read from Nov to Dec 2021. I rated all these six books with 4 stars (out of 5). Give them a shot if they sound interesting.&lt;&#x2F;p&gt;
 &lt;p&gt;The links lead to the book page on goodreads, from where I&#x27;ve also copied a portion of the blurbs for this post.&lt;&#x2F;p&gt;
 </description>
@@ -296,207 +296,207 @@
         <item>
             <title>Bastion: fast paced epic progression fantasy</title>
             <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/bastion/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/bastion/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/bastion/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/bastion/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;58656291-bastion&quot;&gt;Bastion&lt;&#x2F;a&gt; is the first book in the &lt;strong&gt;The Immortal Great Souls&lt;&#x2F;strong&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;4100280.Phil_Tucker&quot;&gt;Phil Tucker&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Reaper: bountiful harvest</title>
             <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/reaper/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/reaper/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/reaper/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/reaper/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;57640065-reaper&quot;&gt;Reaper&lt;&#x2F;a&gt; is the 10th book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;192821-cradle&quot;&gt;Cradle series&lt;&#x2F;a&gt; written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;7125278.Will_Wight&quot;&gt;Will Wight&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>A Dash of Trouble: what could go wrong?</title>
             <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/a-dash-of-trouble/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/a-dash-of-trouble/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/a-dash-of-trouble/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/a-dash-of-trouble/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;29918993-a-dash-of-trouble&quot;&gt;A Dash of Trouble&lt;&#x2F;a&gt; is the first book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;212968-love-sugar-magic&quot;&gt;Love Sugar Magic&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;15182957.Anna_Meriano&quot;&gt;Anna Meriano&lt;&#x2F;a&gt;. Can be read as a standalone too.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Winter&#x27;s Orbit: romance in space</title>
             <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/winters-orbit/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/winters-orbit/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/winters-orbit/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/winters-orbit/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;53205912-winter-s-orbit&quot;&gt;Winter&#x27;s Orbit&lt;&#x2F;a&gt; is a standalone novel written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;19466165.Everina_Maxwell&quot;&gt;Everina Maxwell&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Three Mages and a Margarita: a fun read</title>
             <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/three-mages-and-a-margarita/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/three-mages-and-a-margarita/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/three-mages-and-a-margarita/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/three-mages-and-a-margarita/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;39676313-three-mages-and-a-margarita&quot;&gt;Three Mages and a Margarita&lt;&#x2F;a&gt; is the first book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;230305-the-guild-codex-spellbound&quot;&gt;The Guild Codex: Spellbound&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;8546572.Annette_Marie&quot;&gt;Annette Marie&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>The Wizard&#x27;s Butler: slice of life</title>
             <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/the-wizards-butler/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/the-wizards-butler/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/the-wizards-butler/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/the-wizards-butler/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;52535010-the-wizard-s-butler&quot;&gt;The Wizard&#x27;s Butler&lt;&#x2F;a&gt; is written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;1048167.Nathan_Lowell&quot;&gt;Nathan Lowell&lt;&#x2F;a&gt;. This can be read as a standalone.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>This Quest is Broken: absurd gamelit story</title>
             <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/this-quest-is-broken/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/this-quest-is-broken/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/this-quest-is-broken/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/this-quest-is-broken/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;56557030-this-quest-is-broken&quot;&gt;This Quest is Broken!&lt;&#x2F;a&gt; is the first book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;315945-this-trilogy-is-broken&quot;&gt;This Trilogy is Broken&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;20303150.J_P_Valentine&quot;&gt;J.P. Valentine&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Worldbuilding For Fantasy Fans And Authors</title>
             <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/worldbuilding-for-fantasy-fans-and-authors/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/worldbuilding-for-fantasy-fans-and-authors/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/worldbuilding-for-fantasy-fans-and-authors/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/worldbuilding-for-fantasy-fans-and-authors/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;54139548-worldbuilding-for-fantasy-fans-and-authors&quot;&gt;Worldbuilding For Fantasy Fans And Authors&lt;&#x2F;a&gt; is written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;15468241.M_D_Presley&quot;&gt;M.D. Presley&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Piranesi: mysterious world</title>
             <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/piranesi/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/piranesi/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/piranesi/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/piranesi/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;50202953-piranesi&quot;&gt;Piranesi&lt;&#x2F;a&gt; is a standalone novel written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;8842.Susanna_Clarke&quot;&gt;Susanna Clarke&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Awakening Arte: nicely paced progression</title>
             <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/awakening-arte/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/awakening-arte/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/awakening-arte/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/awakening-arte/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;58510873-awakening-arte&quot;&gt;Awakening Arte&lt;&#x2F;a&gt; is the first book in the &lt;em&gt;The Eldest Throne&lt;&#x2F;em&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;20322655.Bernie_An_s_Paz&quot;&gt;Bernie Anés Paz&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Project Hail Mary: a thrilling mission</title>
             <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/project-hail-mary/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/project-hail-mary/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/project-hail-mary/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/project-hail-mary/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;54493401-project-hail-mary&quot;&gt;Project Hail Mary&lt;&#x2F;a&gt; is written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;6540057.Andy_Weir&quot;&gt;Andy Weir&lt;&#x2F;a&gt;. This is a standalone novel.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>The Cloud Roads: fantastic alien setting</title>
             <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/the-cloud-roads/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/the-cloud-roads/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/the-cloud-roads/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/the-cloud-roads/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;9461562-the-cloud-roads&quot;&gt;The Cloud Roads&lt;&#x2F;a&gt; is the first book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;65591-the-books-of-the-raksura&quot;&gt;The Books of the Raksura&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;87305.Martha_Wells&quot;&gt;Martha Wells&lt;&#x2F;a&gt;. Can be read as a standalone too.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Baking Bad: cozy mystery aided by dragons</title>
             <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/baking-bad/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/baking-bad/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/baking-bad/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/baking-bad/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;56169039-baking-bad&quot;&gt;Baking Bad&lt;&#x2F;a&gt; is the first book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;250128-beaufort-scales-mystery&quot;&gt;Beaufort Scales Mystery&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;18555321.Kim_M_Watt&quot;&gt;Kim M. Watt&lt;&#x2F;a&gt;. Can be read as a standalone too.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>The Queen of Blood: malevolent spirits</title>
             <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/queen-of-blood/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/queen-of-blood/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/queen-of-blood/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/queen-of-blood/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;25036395-the-queen-of-blood&quot;&gt;The Queen of Blood&lt;&#x2F;a&gt; is the first book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;148627-the-queens-of-renthia&quot;&gt;The Queens of Renthia&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;99117.Sarah_Beth_Durst&quot;&gt;Sarah Beth Durst&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Dreadnought: a different kind of superhero</title>
             <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/dreadnought/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/dreadnought/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/dreadnought/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/dreadnought/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;30279514-dreadnought&quot;&gt;Dreadnought&lt;&#x2F;a&gt; is the first book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;190950-nemesis&quot;&gt;Nemesis&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;15402430.April_Daniels&quot;&gt;April Daniels&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Heir to Insanity: nicely paced and entertaining</title>
             <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/heir-to-insanity/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/heir-to-insanity/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/heir-to-insanity/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/heir-to-insanity/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;56412988-heir-to-insanity&quot;&gt;Heir to Insanity&lt;&#x2F;a&gt; is written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;21008639.A_J_Nadir&quot;&gt;A.J. Nadir&lt;&#x2F;a&gt;. This can be read as a standalone.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Soulbrand: this series keeps getting better</title>
             <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/soulbrand/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/soulbrand/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/soulbrand/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/soulbrand/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;58063219-soulbrand&quot;&gt;Soulbrand&lt;&#x2F;a&gt; is the 3rd book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;257210-weapons-and-wielders&quot;&gt;Weapons and Wielders series&lt;&#x2F;a&gt; written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;119164.Andrew_Rowe&quot;&gt;Andrew Rowe&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Truthwitch: fast paced political epic</title>
             <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/truthwitch/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/truthwitch/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/truthwitch/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/truthwitch/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;21414439-truthwitch&quot;&gt;Truthwitch&lt;&#x2F;a&gt; is the first book in &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;124183-the-witchlands&quot;&gt;The Witchlands&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;4499623.Susan_Dennard&quot;&gt;Susan Dennard&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>The Unseelie Court: refreshing humor</title>
             <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/the-unseelie-court/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/the-unseelie-court/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/the-unseelie-court/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/the-unseelie-court/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;21889905-the-unseelie-court&quot;&gt;The Unseelie Court&lt;&#x2F;a&gt; is the first book in the &lt;strong&gt;Frotwoot&#x27;s Faerie Tales&lt;&#x2F;strong&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;8025512.Charlie_Ward&quot;&gt;Charlie Ward&lt;&#x2F;a&gt;. This is also the author&#x27;s debut novel.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>The Dragon with a Chocolate Heart: a delightful read</title>
             <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/dragon-with-a-chocolate-heart/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/dragon-with-a-chocolate-heart/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/dragon-with-a-chocolate-heart/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/dragon-with-a-chocolate-heart/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;26869762-the-dragon-with-a-chocolate-heart&quot;&gt;The Dragon with a Chocolate Heart&lt;&#x2F;a&gt; is the first novel in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;201710-tales-from-the-chocolate-heart&quot;&gt;Tales from the Chocolate Heart&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;2172337.Stephanie_Burgis&quot;&gt;Stephanie Burgis&lt;&#x2F;a&gt;. Can be read as a standalone too.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Elatsoe: ghostly mystery</title>
             <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/elatsoe/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/elatsoe/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/elatsoe/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/elatsoe/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;49089632-elatsoe&quot;&gt;Elatsoe&lt;&#x2F;a&gt; is &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;8141191.Darcie_Little_Badger&quot;&gt;Darcie Little Badger&lt;&#x2F;a&gt;&#x27;s debut novel.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Nimona: packs a punch</title>
             <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/nimona/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/nimona/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/nimona/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/nimona/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;19351043-nimona&quot;&gt;Nimona&lt;&#x2F;a&gt; is a standalone graphic novel written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;6887314.Noelle_Stevenson&quot;&gt;Noelle Stevenson&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Dragon Mage: fast paced epic fantasy</title>
             <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/dragon-mage/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/dragon-mage/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/dragon-mage/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/dragon-mage/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;54451883-dragon-mage&quot;&gt;Dragon Mage&lt;&#x2F;a&gt; is a standalone novel in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;308162-rivenworld&quot;&gt;Rivenworld&lt;&#x2F;a&gt; series written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;7974189.M_L_Spencer&quot;&gt;M.L. Spencer&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;See &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Fantasy&#x2F;comments&#x2F;mpejl8&#x2F;im_ml_spencer_writer_of_the_day_and_author_of&#x2F;&quot;&gt;this &#x2F;r&#x2F;Fantasy thread&lt;&#x2F;a&gt; for author AMA.&lt;&#x2F;p&gt;
 </description>
@@ -504,63 +504,63 @@
         <item>
             <title>Street Cultivation: a different take on progression</title>
             <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/street-cultivation/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/street-cultivation/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/street-cultivation/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/street-cultivation/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;287542-street-cultivation&quot;&gt;Street Cultivation&lt;&#x2F;a&gt; is a completed trilogy written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;18628196.Sarah_Lin&quot;&gt;Sarah Lin&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Order of the Magi</title>
             <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/order-of-the-magi/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/order-of-the-magi/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/order-of-the-magi/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/order-of-the-magi/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;57756245-order-of-the-magi&quot;&gt;Order of the Magi&lt;&#x2F;a&gt; is &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;21391632.Christopher_Scott&quot;&gt;Christopher Scott&lt;&#x2F;a&gt;&#x27;s debut novel. This is a standalone work, but ends with the possibility of a sequel.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>It&#x27;s Punny Oops, I mean Funny!</title>
             <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/punny-funny/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/punny-funny/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/punny-funny/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/punny-funny/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;56502199-it-s-punny-oops-i-mean-funny&quot;&gt;It&#x27;s Punny Oops, I mean Funny!&lt;&#x2F;a&gt; is written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;20897623.Namita_Das&quot;&gt;Namita Das&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>The House in the Cerulean Sea</title>
             <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/house-in-cerulean-sea/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/house-in-cerulean-sea/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/house-in-cerulean-sea/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/house-in-cerulean-sea/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;45047384-the-house-in-the-cerulean-sea&quot;&gt;The House in the Cerulean Sea&lt;&#x2F;a&gt; is a standalone novel written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;5073330.T_J_Klune&quot;&gt;T.J. Klune&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Sorcerer&#x27;s Legacy: gripping political intrigue</title>
             <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/sorcerers-legacy/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/sorcerers-legacy/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/sorcerers-legacy/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/sorcerers-legacy/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;57238274-sorcerer-s-legacy&quot;&gt;Sorcerer&#x27;s Legacy&lt;&#x2F;a&gt; is a standalone novel written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;8591.Janny_Wurts&quot;&gt;Janny Wurts&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Battle Mage: standalone epic fantasy</title>
             <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/battle-mage/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/battle-mage/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/battle-mage/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/battle-mage/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;34532979-battle-mage&quot;&gt;Battle Mage&lt;&#x2F;a&gt; is a standalone novel written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;16218455.Peter_A_Flannery&quot;&gt;Peter A. Flannery&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Bloodline: endgame begins</title>
             <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/bloodline/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/bloodline/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/bloodline/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/bloodline/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;55595995-bloodline&quot;&gt;Bloodline&lt;&#x2F;a&gt; is the 9th book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;192821-cradle&quot;&gt;Cradle series&lt;&#x2F;a&gt; written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;7125278.Will_Wight&quot;&gt;Will Wight&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
@@ -575,18 +575,18 @@
         <item>
             <title>The Siege of Skyhold: clash of titans amidst politicking</title>
             <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/siege-of-skyhold/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/siege-of-skyhold/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/siege-of-skyhold/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/siege-of-skyhold/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;57289544-the-siege-of-skyhold&quot;&gt;The Siege of Skyhold&lt;&#x2F;a&gt; is the 5th book in the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;252085-mage-errant&quot;&gt;Mage Errant series&lt;&#x2F;a&gt; written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;18510329.John_Bierce&quot;&gt;John Bierce&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Spit and Song: a tale of friendship and rediscovering yourself</title>
             <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/spit-and-song/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/spit-and-song/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/spit-and-song/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/spit-and-song/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;48515568-spit-and-song&quot;&gt;Spit and Song&lt;&#x2F;a&gt; is authored by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;15962594.Travis_M_Riddle&quot;&gt;Travis M. Riddle&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;This standalone book is part of the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;273383-ustlian-tales&quot;&gt;Ustlian Tales&lt;&#x2F;a&gt; series and can be read on its own.&lt;&#x2F;p&gt;
 &lt;details&gt;&lt;summary&gt;Click to view content warnings&lt;&#x2F;summary&gt;Drugs, Swearing&lt;&#x2F;details&gt;
@@ -595,36 +595,36 @@
         <item>
             <title>Derkholm duology: whimsical fantasy at its best</title>
             <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/derkholm/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/derkholm/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/derkholm/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/derkholm/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;47587.Dark_Lord_of_Derkholm&quot;&gt;Dark Lord of Derkholm&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;47573.Year_of_the_Griffin&quot;&gt;Year of the Griffin&lt;&#x2F;a&gt; duology is authored by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;4260.Diana_Wynne_Jones&quot;&gt;Diana Wynne Jones&lt;&#x2F;a&gt;. See also &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;47510.The_Tough_Guide_to_Fantasyland&quot;&gt;The Tough Guide to Fantasyland&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>The Revenge of Kaivalya: fast paced paranormal thriller</title>
             <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/revenge-of-kaivalya/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/revenge-of-kaivalya/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/revenge-of-kaivalya/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/revenge-of-kaivalya/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;27227904-the-revenge-of-kaivalya&quot;&gt;The Revenge of Kaivalya&lt;&#x2F;a&gt; is &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;7341254.Sumana_Khan&quot;&gt;Sumana Khan&lt;&#x2F;a&gt;&#x27;s debut novel. This was originally self published before being published by Westland.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>The Shadows of Dust: a riveting space fantasy epic</title>
             <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/the-shadows-of-dust/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/the-shadows-of-dust/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/the-shadows-of-dust/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/the-shadows-of-dust/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;56227118-the-shadows-of-dust&quot;&gt;The Shadows of Dust&lt;&#x2F;a&gt; is a standalone novel authored by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;16048391.Alec_Hutson&quot;&gt;Alec Hutson&lt;&#x2F;a&gt;, well known for &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;225697-the-raveling&quot;&gt;The Raveling&lt;&#x2F;a&gt; series. Here&#x27;s &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Fantasy&#x2F;comments&#x2F;kqsz45&#x2F;to_celebrate_the_release_of_my_standalone&#x2F;&quot;&gt;the announcement post&lt;&#x2F;a&gt; from the author on &#x2F;r&#x2F;Fantasy.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>The Wolf and the She-Bear: fast paced dark fantasy thriller</title>
             <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/wolf-and-she-bear/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/wolf-and-she-bear/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/wolf-and-she-bear/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/wolf-and-she-bear/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;56789052-the-wolf-and-the-she-bear&quot;&gt;The Wolf and the She-Bear&lt;&#x2F;a&gt; is an introductory novella for other books in this setting, authored by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;20228435.Morgan_Stang&quot;&gt;Morgan Stang&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;54140480-she-topples-giants&quot;&gt;She Topples Giants&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -635,17 +635,17 @@
         <item>
             <title>Exodus of Gnomes: a delightful sequel</title>
             <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/exodus-of-gnomes-review/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/exodus-of-gnomes-review/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/exodus-of-gnomes-review/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/exodus-of-gnomes-review/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;57202868-exodus-of-gnomes&quot;&gt;Exodus of Gnomes&lt;&#x2F;a&gt; is the 2nd book of the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;277662-god-core&quot;&gt;God Core&lt;&#x2F;a&gt; trilogy. This comes under the &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;ProgressionFantasy&#x2F;&quot;&gt;progression fantasy&lt;&#x2F;a&gt; category, specifically GameLit&#x2F;LitRPG, but there are no stat sheets in this series.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Mini-reviews for 2020 r&#x2F;Fantasy hard mode bingo</title>
             <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/fantasy-bingo-card-2020/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/fantasy-bingo-card-2020/</guid>
+            <link>https://learnbyexample.github.io/escapist-reviews/fantasy-bingo-card-2020/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/fantasy-bingo-card-2020/</guid>
             <description>&lt;p&gt;This is the first time I&#x27;m participating in &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Fantasy&#x2F;comments&#x2F;ft254j&#x2F;official_rfantasy_2020_book_bingo_challenge&#x2F;&quot;&gt;r&#x2F;Fantasy bingo&lt;&#x2F;a&gt; despite being subscribed to this subreddit for about 5 years. The idea is to expand your reading by filling 5-25 squares. Each square has an easy mode and a hard mode with additional restrictions. Since I average more than one book a week, I felt I could easily do one &lt;strong&gt;Hard mode&lt;&#x2F;strong&gt; card and perhaps do a few more cards later. In the end, I struggled to finish a single HM card.&lt;&#x2F;p&gt;
 &lt;p&gt;I also added another self-imposed rule that any author I&#x27;ve already read prior to the start of the bingo cannot be used for this card. That made it tougher to fill the squares. In retrospect, I should&#x27;ve kept this rule but chosen easy mode. I don&#x27;t plan to do HM next time, but perhaps I&#x27;ll keep the tradition of picking a self-imposed rule.&lt;&#x2F;p&gt;
 </description>
@@ -653,9 +653,9 @@
         <item>
             <title>Half a Soul: wholesome romance and fantastic banter</title>
             <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/half-a-soul/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/half-a-soul/</guid>
-            <description>&lt;h2 id=&quot;about&quot;&gt;&lt;p style=&quot;color: #7e0b5f&quot;&gt;About&lt;&#x2F;h2&gt;
+            <link>https://learnbyexample.github.io/escapist-reviews/half-a-soul/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/half-a-soul/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;52654173-half-a-soul&quot;&gt;Half a Soul&lt;&#x2F;a&gt; is &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;20153683.Olivia_Atwater&quot;&gt;Olivia Atwater&lt;&#x2F;a&gt;&#x27;s debut novel.&lt;&#x2F;p&gt;
 &lt;p&gt;This standalone book is part of the &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;series&#x2F;285776-regency-faerie-tales&quot;&gt;Regency Faerie Tales&lt;&#x2F;a&gt; series.&lt;&#x2F;p&gt;
 </description>
@@ -663,8 +663,8 @@
         <item>
             <title>10 favorite fictional books I read in 2020</title>
             <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/2020-favorite-fiction/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/2020-favorite-fiction/</guid>
+            <link>https://learnbyexample.github.io/escapist-reviews/lists/2020-favorite-fiction/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/lists/2020-favorite-fiction/</guid>
             <description>&lt;p&gt;I read 97 fictional novels in 2020, including re-reads. Most of them were fantasy, rest would fall under sci-fi and magical realism. &lt;&#x2F;p&gt;
 &lt;p&gt;A few years back, I would finish a book no matter how difficult or boring it was. Not so anymore, I had at least three DNF this year — one was too dark for my tastes and the other two were too boring.&lt;&#x2F;p&gt;
 &lt;p&gt;Picking favorites is a tough task and choosing the order of presentation even more so. I&#x27;ve gone with books I enjoyed the most and these are all great candidates for future re-reads. I am not so good with rating prose, characters, worldbuilding, plot holes, etc anyway.&lt;&#x2F;p&gt;
@@ -673,8 +673,8 @@
         <item>
             <title>Mini reviews for 16 books</title>
             <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-            <link>https://learnbyexample.github.io/escapist-reviews/posts/mini-reviews-june-sep-2020/</link>
-            <guid>https://learnbyexample.github.io/escapist-reviews/posts/mini-reviews-june-sep-2020/</guid>
+            <link>https://learnbyexample.github.io/escapist-reviews/mini-reviews-june-sep-2020/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/mini-reviews-june-sep-2020/</guid>
             <description>&lt;p&gt;Here&#x27;s mini reviews for books I read from June to Sep 2020.&lt;&#x2F;p&gt;
 </description>
         </item>
