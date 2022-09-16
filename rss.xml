@@ -7,7 +7,16 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="https://learnbyexample.github.io/escapist-reviews/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>The Book of Zog: cozy fantasy starring an eldritch horror</title>
+            <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+            <link>https://learnbyexample.github.io/escapist-reviews/the-book-of-zog/</link>
+            <guid>https://learnbyexample.github.io/escapist-reviews/the-book-of-zog/</guid>
+            <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;62586822-the-book-of-zog&quot;&gt;The Book of Zog&lt;&#x2F;a&gt; is written by &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;16048391.Alec_Hutson&quot;&gt;Alec Hutson&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Rogue Dungeon: portal litRPG fantasy with a twist</title>
             <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
